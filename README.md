@@ -1,6 +1,6 @@
 # SpaceFlap
 
-O Space Flap é um jogo simples desenvolvido por mmim que apresenta uma versão adaptada do famoso jogo Flap Bird. 
+O Space Flap é um jogo simples desenvolvido por mim que apresenta uma versão adaptada do famoso jogo Flap Bird. 
 O Space Flap foi desenvolvido na IDE Unity, versão 2019, utilizando a linguagem de programação C#.
 
 Divirta-se jogando este pequeno jogo tentando levar a sua Nave o mais longe possível se desviando dos asteroides que o cercam.
